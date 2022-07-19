@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mojo_frontdraft.github.io/static/css/main.e1b9e8b4.css",
-    "main.js": "/mojo_frontdraft.github.io/static/js/main.3387a136.js",
+    "main.js": "/mojo_frontdraft.github.io/static/js/main.afaf85fa.js",
     "static/js/784.f602a7d1.chunk.js": "/mojo_frontdraft.github.io/static/js/784.f602a7d1.chunk.js",
     "static/js/897.12125893.chunk.js": "/mojo_frontdraft.github.io/static/js/897.12125893.chunk.js",
     "static/js/715.b46515f6.chunk.js": "/mojo_frontdraft.github.io/static/js/715.b46515f6.chunk.js",
@@ -13,7 +13,7 @@
     "static/js/418.e3a61f35.chunk.js": "/mojo_frontdraft.github.io/static/js/418.e3a61f35.chunk.js",
     "static/js/606.aa9e02c9.chunk.js": "/mojo_frontdraft.github.io/static/js/606.aa9e02c9.chunk.js",
     "static/js/571.00a78c8b.chunk.js": "/mojo_frontdraft.github.io/static/js/571.00a78c8b.chunk.js",
-    "static/js/111.56d5d9c6.chunk.js": "/mojo_frontdraft.github.io/static/js/111.56d5d9c6.chunk.js",
+    "static/js/111.7ad7662d.chunk.js": "/mojo_frontdraft.github.io/static/js/111.7ad7662d.chunk.js",
     "static/js/326.878d965d.chunk.js": "/mojo_frontdraft.github.io/static/js/326.878d965d.chunk.js",
     "static/js/569.beaf08bc.chunk.js": "/mojo_frontdraft.github.io/static/js/569.beaf08bc.chunk.js",
     "static/js/863.c3dcb78f.chunk.js": "/mojo_frontdraft.github.io/static/js/863.c3dcb78f.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/social-google.svg": "/mojo_frontdraft.github.io/static/media/social-google.9887eb8eb43729cb99f402cfa0de3c44.svg",
     "static/media/earning.svg": "/mojo_frontdraft.github.io/static/media/earning.b019e86a7ee117bd6bb2e8cab90c0db5.svg",
     "main.e1b9e8b4.css.map": "/mojo_frontdraft.github.io/static/css/main.e1b9e8b4.css.map",
-    "main.3387a136.js.map": "/mojo_frontdraft.github.io/static/js/main.3387a136.js.map",
+    "main.afaf85fa.js.map": "/mojo_frontdraft.github.io/static/js/main.afaf85fa.js.map",
     "784.f602a7d1.chunk.js.map": "/mojo_frontdraft.github.io/static/js/784.f602a7d1.chunk.js.map",
     "897.12125893.chunk.js.map": "/mojo_frontdraft.github.io/static/js/897.12125893.chunk.js.map",
     "715.b46515f6.chunk.js.map": "/mojo_frontdraft.github.io/static/js/715.b46515f6.chunk.js.map",
@@ -36,7 +36,7 @@
     "418.e3a61f35.chunk.js.map": "/mojo_frontdraft.github.io/static/js/418.e3a61f35.chunk.js.map",
     "606.aa9e02c9.chunk.js.map": "/mojo_frontdraft.github.io/static/js/606.aa9e02c9.chunk.js.map",
     "571.00a78c8b.chunk.js.map": "/mojo_frontdraft.github.io/static/js/571.00a78c8b.chunk.js.map",
-    "111.56d5d9c6.chunk.js.map": "/mojo_frontdraft.github.io/static/js/111.56d5d9c6.chunk.js.map",
+    "111.7ad7662d.chunk.js.map": "/mojo_frontdraft.github.io/static/js/111.7ad7662d.chunk.js.map",
     "326.878d965d.chunk.js.map": "/mojo_frontdraft.github.io/static/js/326.878d965d.chunk.js.map",
     "569.beaf08bc.chunk.js.map": "/mojo_frontdraft.github.io/static/js/569.beaf08bc.chunk.js.map",
     "863.c3dcb78f.chunk.js.map": "/mojo_frontdraft.github.io/static/js/863.c3dcb78f.chunk.js.map",
@@ -45,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.e1b9e8b4.css",
-    "static/js/main.3387a136.js"
+    "static/js/main.afaf85fa.js"
   ]
 }
